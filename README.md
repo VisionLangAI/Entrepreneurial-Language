@@ -1,1 +1,3 @@
 # Entrepreneurial-Language
+
+This dataset presents a comprehensive collection of 100,000 entrepreneurial communication instances designed to analyze linguistic patterns across varied emotional tones. Each entry capturing real-world entrepreneurial contexts. The data integrates key attributes enabling a multifaceted exploration of how entrepreneurs express motivation, determination, and creativity in professional discourse. With eight emotional tones, the dataset supports advanced Natural Language Processing (NLP) tasks, offering valuable insights for language-based entrepreneurship and leadership research.
